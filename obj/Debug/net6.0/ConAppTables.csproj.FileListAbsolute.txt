@@ -1,0 +1,14 @@
+D:\Mphasis\Phase-4\Day-3\ConAppTables\bin\Debug\net6.0\ConAppTables.exe
+D:\Mphasis\Phase-4\Day-3\ConAppTables\bin\Debug\net6.0\ConAppTables.deps.json
+D:\Mphasis\Phase-4\Day-3\ConAppTables\bin\Debug\net6.0\ConAppTables.runtimeconfig.json
+D:\Mphasis\Phase-4\Day-3\ConAppTables\bin\Debug\net6.0\ConAppTables.dll
+D:\Mphasis\Phase-4\Day-3\ConAppTables\bin\Debug\net6.0\ConAppTables.pdb
+D:\Mphasis\Phase-4\Day-3\ConAppTables\obj\Debug\net6.0\ConAppTables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis\Phase-4\Day-3\ConAppTables\obj\Debug\net6.0\ConAppTables.AssemblyInfoInputs.cache
+D:\Mphasis\Phase-4\Day-3\ConAppTables\obj\Debug\net6.0\ConAppTables.AssemblyInfo.cs
+D:\Mphasis\Phase-4\Day-3\ConAppTables\obj\Debug\net6.0\ConAppTables.csproj.CoreCompileInputs.cache
+D:\Mphasis\Phase-4\Day-3\ConAppTables\obj\Debug\net6.0\ConAppTables.dll
+D:\Mphasis\Phase-4\Day-3\ConAppTables\obj\Debug\net6.0\refint\ConAppTables.dll
+D:\Mphasis\Phase-4\Day-3\ConAppTables\obj\Debug\net6.0\ConAppTables.pdb
+D:\Mphasis\Phase-4\Day-3\ConAppTables\obj\Debug\net6.0\ConAppTables.genruntimeconfig.cache
+D:\Mphasis\Phase-4\Day-3\ConAppTables\obj\Debug\net6.0\ref\ConAppTables.dll
